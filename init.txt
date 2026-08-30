@@ -1,0 +1,8 @@
+视频双语字幕生成器/
+├── video_translator_portable.py     # 源码
+├── 视频双语字幕生成器.spec           # 打包配置
+├── README.md                        # 说明文档
+├── LICENSE                          # 开源协议
+├── requirements.txt                 # 依赖列表
+├── .gitignore
+└── dist/                            # 可选，放打包好的文件

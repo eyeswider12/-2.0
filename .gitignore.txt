@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+build/
+dist/
+models/
+*.mp4
+*.srt
+*.exe
+*.spec
+requirements.txt
